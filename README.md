@@ -1,4 +1,4 @@
-README FILE
+README FILE FOR OPEN SOURCES FINAL PROJECT
 BUILDING AND TRAINING A RESNET-18 MODEL IN GOOGLE COLAB FOR MNIST DIGIT CLASSIFICATION
 This project demonstrates how to build and train a ResNet-18 model using PyTorch for classifying handwritten digits from the MNIST dataset within Google Colab.
  Introduction
